@@ -71,7 +71,7 @@ int	main(void)
 	return(0);
 }
 ```
-***main.cpp*** using get_next_line
+***main.cpp*** using get_next_line_bonus
 ```c
 int main(void)
 {
