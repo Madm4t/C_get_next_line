@@ -50,7 +50,8 @@ This project was built for the 42 School curriculum under strict Norm guidelines
 3. If you want to read from multiple file descriptors use the _bonus extension:
    ```bash
    #include "get_next_line_bonus.h"
-   gcc -Wall -Wextra -Werror main.c get_next_line_bonus.c and get_next_line_utils_bonus.c -o my_app
+   ```
+   ```bash
    gcc -Wall -Wextra -Werror main.c get_next_line_bonus.c and get_next_line_utils_bonus.c -o my_app
 
 ## Example
